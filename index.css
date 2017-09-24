@@ -28,10 +28,19 @@ li:hover{
     display: block;
     background-color: #03A9F4;
     margin-top: 10px;
+    margin-bottom: 30px;
 }
 
 
 
 #add-new-todo-button:active{
      box-shadow: 1px 1px 1px #90A4AE;
+     
 }
+
+
+#image-1{
+    margin: 0 auto;
+    display: block;
+}
+

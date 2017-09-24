@@ -44,3 +44,6 @@ li:hover{
     display: block;
 }
 
+html{
+    margin: 0 auto;
+}
